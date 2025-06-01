@@ -1,0 +1,1 @@
+/home/andersson/Área\ de\ trabalho/code/SO/rust/AnderssonSilva_AndrezaGon-alves_ws_OS_RR_2025/editor_texto/target/debug/editor_texto: /home/andersson/Área\ de\ trabalho/code/SO/rust/AnderssonSilva_AndrezaGon-alves_ws_OS_RR_2025/editor_texto/src/main.rs
