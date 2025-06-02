@@ -1,4 +1,4 @@
-# 🧠 AnderssonSilva_AndrezaGon-alves_ws_OS_RR_2025
+# 🧠 AnderssonSilva_AndrezaGoncalves_ws_OS_RR_2025
 
 Repositório de projetos desenvolvidos por **Andersson Silva** e **Andreza Gonçalves** para a disciplina de **Sistemas Operacionais** no curso de Ciência da Computação da Universidade Federal de Roraima (UFRR), no semestre 2025.1.
 
